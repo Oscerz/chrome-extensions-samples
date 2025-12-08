@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "The Chrome Team",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GoogleChrome/chrome-extensions-samples/issues"
   },
