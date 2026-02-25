@@ -26,4 +26,4 @@ Please see [the CONTRIBUTING file](/CONTRIBUTING.md) for information on contribu
 
 ## License
 
-`chrome-extensions-samples` are authored by Google and are licensed under the [Apache License, Version 2.0](/LICENSE).
+`chrome-extensions-samples` are licensed under the [MIT License](/LICENSE).

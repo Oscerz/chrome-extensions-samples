@@ -8,7 +8,7 @@
     "build": "rollup -c rollup.config.mjs"
   },
   "keywords": [],
-  "license": "Apache 2.0",
+  "license": "MIT",
   "devDependencies": {
     "dompurify": "3.2.4",
     "marked": "14.1.2",
